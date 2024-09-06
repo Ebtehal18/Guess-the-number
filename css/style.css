@@ -231,6 +231,6 @@ span {
     font-size: 5rem;
   }
   .secretNumber::before, .secretNumber::after {
-    width: 73vw;
+    width: 75vw;
 }
 }
