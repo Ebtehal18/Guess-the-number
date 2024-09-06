@@ -222,7 +222,7 @@ span {
 @media screen and (max-width:992px) {
  
     .secretNumber::before, .secretNumber::after {
-        width: 59vw;
+        width: 80vw;
     
 }
 }
@@ -230,7 +230,5 @@ span {
   .secretNumber{
     font-size: 5rem;
   }
-  .secretNumber::before, .secretNumber::after {
-    width: 80vw;
-}
+
 }
